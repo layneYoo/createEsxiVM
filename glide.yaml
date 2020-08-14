@@ -1,0 +1,6 @@
+package: xlei/vm
+import:
+- package: github.com/vmware/govmomi
+- package: golang.org/x/net
+  subpackages:
+  - context
